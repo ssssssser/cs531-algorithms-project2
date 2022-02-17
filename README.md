@@ -1,4 +1,4 @@
-cs531_project2
+cs531_project2: Algorithms for Sponsored Keyword Search
 
 part_3_1.py: the offline greedy algorithm  
 part_3_2.py: the offline naive LP fractional and rounding algorithms  
